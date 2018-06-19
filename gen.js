@@ -1,5 +1,5 @@
 const generate = 2249; // Number of addresses to generate
-const decimals = 6; // Number of decimals (not more than 6!)
+const decimals = 6; // Number of decimals (no more than 6!)
 let totalTokens = 30957882.3626; // Total amount to generate
 
 totalTokens *= Math.pow(10, decimals);
